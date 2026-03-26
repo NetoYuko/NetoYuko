@@ -91,6 +91,14 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e tenho focado minha evo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
+<img 
+    align="left" 
+    alt="Tailwindcss" 
+    title="Tailwindcss"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
 
 <br/>
 <br/>
