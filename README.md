@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Opa! Eu sou o Neto, tenho 24 anos e sou natural de Alagoas.
+Opa! Eu sou o Neto, tenho 25 anos e sou natural de Alagoas.
 Atualmente curso Análise e Desenvolvimento de Sistemas e tenho focado minha evolução no desenvolvimento Back-end. Construí uma base sólida em Front-end e Design, o que me dá uma visão completa do produto, mas hoje minha dedicação principal é criar a lógica de servidor, estruturar bancos de dados e construir APIs eficientes. Aqui no GitHub compartilho meus projetos práticos, onde conecto tecnologias como Java, Node.js, Python e PostgreSQL!
 
 <p align="left">
