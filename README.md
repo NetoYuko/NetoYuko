@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,flask,react,tailwind,html,css,git,github,postman,postgres,prisma,docker,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,flask,js,react,tailwind,html,css,git,github,postman,postgres,prisma,docker,figma&perline=10" />
   </a>
 </div>
 
