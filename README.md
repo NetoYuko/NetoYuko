@@ -1,95 +1,32 @@
-# 🥷🏻 Aluizio Antônio (Neto)
+<div align="center">
+  <h1>Olá! Sou o Aluizio (Neto) 🥷🏻</h1>
+  <h3>Desenvolvedor Back-end | Java, Spring Boot, Node.js & React</h3>
+</div>
 
-**`Desenvolvedor Back-end`**
+<p align="center">
+  Atualmente curso Análise e Desenvolvimento de Sistemas e tenho focado minha evolução no desenvolvimento Back-end. Construí uma base sólida em Front-end e Design, o que me dá uma visão completa do produto, mas hoje minha dedicação principal é criar a lógica de servidor, estruturar bancos de dados e construir APIs eficientes
+</p>
 
-Opa! Eu sou o Neto, tenho 25 anos e sou natural de Alagoas.
-Atualmente curso Análise e Desenvolvimento de Sistemas e tenho focado minha evolução no desenvolvimento Back-end. Construí uma base sólida em Front-end e Design, o que me dá uma visão completa do produto, mas hoje minha dedicação principal é criar a lógica de servidor, estruturar bancos de dados e construir APIs eficientes. Aqui no GitHub compartilho meus projetos práticos, onde conecto tecnologias como Java, Node.js, Python e PostgreSQL!
+<div align="center">
+  <a href="https://www.linkedin.com/in/neto-menezes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:neto.yuko197@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠 Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,flask,react,tailwind,html,css,git,github,postman,postgres,prisma,docker,figma&perline=10" />
+  </a>
+</div>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Tailwindcss" 
-    title="Tailwindcss"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
+---
 
-<br/>
-<br/>
+### 🚀 Projetos em Destaque
+
+*   **[Sistema Precificação Padaria](https://sistema-precificacao-front.vercel.app/):** Aplicação Full Stack para gestão e precificação. Construída com Node.js, Express, PostgreSQL e React.
+*   **[Sistema de Agendamento](https://github.com/NetoYuko/desafio-time-saver-estagio):** Aplicação Full Stack para gestão de agendamentos para clinicas, Construído com Python, Flask, Html, Css e JavaScript.
+
+---
