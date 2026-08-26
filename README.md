@@ -16,9 +16,27 @@
 
 ### 🛠 Tecnologias e Ferramentas
 
-<div align="center">
+## Back-end:
+
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,flask,js,react,tailwind,html,css,git,github,postman,postgres,prisma,docker,figma&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,flask&perline=10" />
+  </a>
+</div>
+
+## Front-end:
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,figma&perline=10" />
+  </a>
+</div>
+
+## BD/DevOps
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,postgres,prisma,docker&perline=10" />
   </a>
 </div>
 
