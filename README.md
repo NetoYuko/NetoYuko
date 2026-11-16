@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 ## Back-end:
 
@@ -42,7 +42,7 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
 *   **[Sistema Precificação Padaria](https://sistema-precificacao-front.vercel.app/):** Aplicação Full Stack para gestão e precificação. Construída com Node.js, Express, PostgreSQL e React.
 *   **[Sistema de Agendamento](https://github.com/NetoYuko/desafio-time-saver-estagio):** Aplicação Full Stack para gestão de agendamentos para clinicas, Construído com Python, Flask, Html, Css e JavaScript.
