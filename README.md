@@ -46,6 +46,8 @@
 
 *   **[Sistema Precificação Padaria](https://sistema-precificacao-front.vercel.app/):** Aplicação Full Stack para gestão e precificação. Construída com Node.js, Express, PostgreSQL e React.
 *   **[Sistema de Agendamento](https://github.com/NetoYuko/desafio-time-saver-estagio):** Aplicação Full Stack para gestão de agendamentos para clinicas, Construído com Python, Flask, Html, Css e JavaScript.
-*   **[API Gestão e controle de animais](https://github.com/NetoYuko/pedacinho-do-ceu-api):** API para gestão de animais, adoções, tutores e medicamentos para uma ONG. Construída em Java(SpringBoot), postgreSQL, Swagger e Docker. 
+*   **Sistema Gestão ONG de Animais** Aplicação Full Stack para gestão de animais, adoções, tutores e medicamentos para uma ONG. Construída em Java(SpringBoot), React, PostgreSQL, Swagger e Docker.
+      - [Back-end](https://github.com/NetoYuko/gestao-ong-animais-api)
+      - [Front-end](https://github.com/NetoYuko/gestao-ong-animais-web)
 
 ---
